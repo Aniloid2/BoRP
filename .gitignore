@@ -1,6 +1,6 @@
-./accuracy_check_brian.py
-./main_bert.py
-./.gitignore
+/accuracy_check_brian.py
+/main_bert.py
+/.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
